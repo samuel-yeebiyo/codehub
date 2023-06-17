@@ -26,8 +26,8 @@ for num in result:
     print(num)
 
 # Analysis
-# Best input: an array sorted in ascending order
-# Best case: O(n) as it will go through whole list but never swap anything
+# Best input:
+# Best case:
 
-# Worst input: an array sorted in descending order
-# Worst case: O(n^2) as it goes through the loop for each member and again to find the minimum
+# Worst input:
+# Worst case:
